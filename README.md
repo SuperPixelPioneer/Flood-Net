@@ -1,4 +1,13 @@
 # Water-Net-flood-extraction-network-combining-Transformer-and-CNN-from-SAR
+# requirement：
+- python 3.7.12
+- TensorFlow 2.6.4
+- gdal 3.1.4
+- numpy 1.19.0
+- opencv-python 4.5.4
+- matplotlib 3.5.3
+# Training data and model parameters
+- https://www.kaggle.com/zhaotengsir/datasets?search=0.779
 # **Abstract:**
 
 
@@ -19,5 +28,15 @@ and connectivity of flood extraction by ingeniously designing each part of the n
 
 **this paper's code will be upload here soon!**
 # model：
+### Overall architecture of the model is below：
+![our_model.png](https://s2.loli.net/2022/11/27/9CLhqd5PlufB7Je.png)
+### MSAM is below：
+![image.png](https://s2.loli.net/2022/11/27/SoCJMRhluZVQEg7.png)
 
+# experiment：
+![image.png](https://s2.loli.net/2022/11/27/yV1B3aGcRqJn5ZD.png)
+![image.png](https://s2.loli.net/2022/11/27/wTqbLSe9tizFkMu.png)
+![image.png](https://s2.loli.net/2022/11/27/WbezTx3U2sOX6oq.png)
+
+Note: Speed is defined as: processing single sheet 512 × Time required for 512 size images (seconds)
 
