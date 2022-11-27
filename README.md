@@ -1,6 +1,8 @@
 # Water-Net-flood-extraction-network-combining-Transformer-and-CNN-from-SAR
-**Abstract:**
-    Due to the trend of high frequency and wide range of flood disasters in China and the advantage that synthetic aperture radar (SAR) images 
+# **Abstract:**
+
+
+   Due to the trend of high frequency and wide range of flood disasters in China and the advantage that synthetic aperture radar (SAR) images 
 are not restricted by climatic conditions, it is of great significance to extract flood from SAR images for flood monitoring. Method Aiming 
 at problems of over-segmentation and water boundary positioning in SAR image flood extraction, this paper designs a Multi-Scale Aggregation 
 Model by combining the local inductive bias ability of CNN and the global semantic capture ability of transformer to fuse multi-scale semantic 
@@ -16,3 +18,6 @@ and 4.6%. Conclusion This paper proposes a flood extraction network, Water Net, 
 and connectivity of flood extraction by ingeniously designing each part of the network.
 
 **this paper's code will be upload here soon!**
+# model：
+
+
