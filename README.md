@@ -1,4 +1,4 @@
-# Water-Net-flood-extraction-network-combining-Transformer-and-CNN-from-SAR
+# Flood-Net：the flood extraction network combining Transformer and CNN from SAR
 # requirement：
 - python 3.7.12
 - TensorFlow 2.6.4
